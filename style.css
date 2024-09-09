@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+h1 {
+    font-family: "Pixelify Sans", sans-serif;
+    font-style: normal;
+    font-weight: 150;
+    color: aquamarine;
+    font-size: 700;
+    text-align: center;
+}
+
+h2{
+    font-family: "Pixelify Sans", sans-serif;
+    font-style: normal;
+    font-weight: 150;
+    color: aquamarine;
+    font-size: 700;
+    text-align: left;
+}
+
+p{
+border: 2px solid black ;
+}
+body{
+   
+    background-image: linear-gradient(black, white);
+    background-image: url("cat.jpg");
+    background-size: contain;
+    
+    align-content: center;
+}
